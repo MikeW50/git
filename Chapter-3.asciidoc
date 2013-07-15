@@ -1,0 +1,697 @@
+== Juno: A Solid Propellant Rocket
+
+.Juno
+image::images/Fig%203-1.jpg[]
+
+This rocket is a workhorse, easy to build but very stable. It's also capable of reaching altitudes of 1500 feet—over a quarter of a mile!
+
+.What's in a Name?
+****
+Names for rockets, both model rockets and big NASA rockets, range from serious to whimsical. The Apollo 11 lunar module that first landed on the Moon carried the classy moniker of Eagle, leading to those first words from the moon: "Houston, Tranquility Base here. The Eagle has landed!" Apollo 10's lunar module had the fun name of Snoopy.
+
+Like all of the rockets in this book, Juno is named after an asteroid. German astronomer Karl Harding discovered the asteroid in 1804. It's about 200 miles/320 meters across at its widest point, but isn't round. In another direction, it's only about 2/3 that size. Its orbit is fairly irregular, too. Juno's _perihelion_ (closest point to the Sun) is about twice as far as Earth's orbit, while its _aphelion_ (farthest distance from the Sun is about 3.4 times Earth's orbit. It is probably the 10th largest asteroid (estimates vary), accounting for roughly 1% of the total mass of the asteroid belt.
+
+Like many of the bodies in the solar system, Juno's name comes from mythology. Juno was the highest Roman goddess, sometimes referred to as the Queen of Heaven. Her symbol is a star mounted on a scepter. All in all, a fine name for our first rocket!
+****
+
+=== Parts and Tools
+
+.Parts List
+[options="header"]
+|===========================
+|Part                                         |Description                                                                                                                                                                                                                                         
+|BT-50 body tube, 12"                         |The main body tube for the rocket. This will be cut from a longer tube; they usually come in 15- or 18-inch lengths.                                                                                                                                
+|BT-20 body tube, 2.75"                       |The motor mount. This is precut in the Estes Designer Special. It can easily be cut from a longer BT-20 body tube.                                                                                                                                  
+|BT-50 size nose cone, 2.75"                  |Any BT-50 nose cone of balsa or plastic that is at least 2.5 inches long will do. Stick with balsa wood if you turn your own. Harder woods can turn a fun model rocket into a potentially dangerous projectile.                                     
+|Screw Eye (Balsa nose cones only)            |You will need a screw eye if the nose cone is balsa wood. This is screwed into the base of the nose cone to provide an attachment point for parachutes and shock cords. Plastic nose cones have an equivalent molded into the base of the nose cone.
+|3/32 balsa fin stock        |The balsa wood will be used for the fins. See <<section3_fins>> if you intend to buy your own balsa at the local hobby store.                                                                                                         
+|CR-20/50 centering ring (2)                  |Two spiral wound centering rings are used to hold the motor tube inside the main body tube. There are lots of substitutes, from balsa wood to cardboard, but the commercial version is cheap and very easy to work with.                            
+|2.75" engine hook                            |This is a small metal hook. They are too cheap to make it worth while manufacturing your own.                                                                                                                                                       
+|1/8 inch launch lug                          |It's actually a little thicker, but the launch lug we will use is designed for a 1/8 inch launch rail, so it's generally called a 1/8 launch lug. Get the commercial version. You will need a 1.5 inch long piece.                                    
+|1/8 inch shock cord, 12 inches               |Made from rubber or elastic. This will come in the Estes Designer Special, or you can buy some 1/8 wide elastic from the fabric store. You will need a piece 12 inches long.                                                                        
+|12-inch plastic parachute                    |These come in kit form. If you're buying parts individually, though, skip this one. Buy some crochet string, some duck tape, and get it in a colorful plastic sack from the store, instead.                                                           
+|Snap swivel, 2 (optional)                       |I like to attach parachutes and shock cords with a snap swivel, making it easier to move a parachute or payload bay from one rocket to another.                                                                      
+|===========================
+
+
+.Tools and Supplies
+[options="header"]
+|===========================
+|Tool or Supply|Description                                                                                                    
+|Hobby knife   |Hobby knife with several extra blades.                                                                         
+|Cutting board |18x24 inch cutting board.                                                                                      
+|Glue          |Yellow wood glue and a small tube of plastic glue. The plastic glue is only needed if your plastic nose cone comes in two parts.                                                             
+|Sandpaper     |Medium grit and extra fine grit sandpaper.                                                                     
+|Sanding block |A small block of wood about 0.75x1.5x2 inches will do nicely.                                                  
+|Wood primer   |Filling, sandable primer or sanding sealer.                                                                    
+|Paint         |Enamel spray paint or model airplane dope. Practically anything will work as long as you don't mix paint kinds.
+|Paper         |Used for fin guides, cutting guides and shock cord mounts. Normal notebook paper or printer paper is fine.
+|Meta ruler    |A metal edge ruler is not essential, but is very handy. Get one about 15 inches long.
+|Pencil        |Not a pen, but a pencil. You'll use it to mark body tubes.
+|Wax paper     |Glue does not stick to wax paper. Use it to cover surfaces where glue might drip while parts dry.
+|Tape          |Several kinds of tape are handy. At the very least, get painter's tape, used to mask areas while spray painting.
+|===========================
+
+.What About Kits?
+****
+A quick online search or a trip to the hobby store will show a lot of rocket kits. Why not just buy a kit?
+
+Why not, indeed. Go for it. 
+
+About half of the rockets I build are scratch built, and about half are built from kits—sometimes heavily modified, but still a kit. This book shows you how to build everything from raw parts, which is a lot of fun, but there's a lot to be said for kits. Everything you need is included in one nice bundle.
+
+There are equivalent kits available for most of the rockets in this book. Each chapter that shows a rocket design will also show one or two equivalent kits, assuming there is one.
+
+The Juno is a basic sport rocket, and there are a lot of equivalent kits.
+
+Alpha – From Estes industries, this was my first rocket many, many years ago. It's very similar to the Juno. You can also buy the Alpha in bulk packs for schools or in starter sets with a launcher and a few motors.
+
+Astra 1 – From Quest Aerospace, this rocket features through the wall fins, something generally not seen until rockets are quite a bit bigger. The Astra 1 is also available in bulk packs.
+****
+
+==== Where to Buy Parts
+
+.The Estes Designer Special
+image::images/Fig%203-62.jpg[height="3in"]
+
+Most of the solid propellant rockets in this book can be built from the parts in the Estes Designer's Special, a collection of rocket components available by mail order from Amazon.com and many other retailers. There will be a few odd parts for some of the kits.
+
++Add a complete shopping list for all of the rockets in the book so people can buy everything at once. Consider a kit with just the needed parts. All of this will have to wait until the draft book is complete.+
+
+All of the parts can also be purchased from mail order houses and hobby stores. A quick Internet search will turn up a long list of hobby stores and model rocket companies with an online presence. Here are a few that I have dealt with over the years.
+
+www.estesrockets.com - The 800-pound gorilla of the low power model rocket world, Estes Industries has been around since the dawn of model rocketry. They make and sell the Estes Designer Special, as well as various replacement parts, motors and kits.
+
+www.questaerospace.com - One of the few competitors for Estes in the low-power model rocket arena, Quest has a nice online store featuring motors, parts and kits.
+
+www.amazon.com - You can find the Estes Designer Special, as well as motors and kits from many manufacturers, on Amazon.
+
+Local hobby stores, including chains like Hobby Lobby, frequently carry model rocket kits and supplies. Most will have starter sets, kits and motors. Some will have individual parts like body tubes and motors, too. While I appreciate and use online stores, there's nothing quite like the convenience of dropping in to a local store and seeing all of the parts first hand, or picking up an igniter or motor for a launch the same day. Try to support your local retailer so they are there to support you when you need it.
+
+==== A Detailed Walk-Through of the Parts List
+
+Since this is the first solid-propellant rocket beyond the match head rocket, it's appropriate to take some time for a thorough look at the materials and tools used to build model rockets.
+
+===== Body Tubes
+
+.Body tubes are generally made from spiral wound paper. Seen here are the BT-5, BT-20, BT-50 and BT-60. The clear payload tube is the same size as a BT-50.
+image::images/Fig%203-2.jpg[height="2.5in"]
+
+Body tubes are the main structural element in the model rocket. They are used for the exterior body of most rockets, as well as payload bays, engine mounts and sometimes for decorative elements.
+
+Body tubes are almost universally made from spiral-wound paper, usually brown but occasionally white or yellow. Some payload bay tubes are made from clear plastic, and a few rockets are built around other components entirely, but the paper body tube is the mainstay of model rocketry.
+
+Body tubes come in a variety of diameters and lengths. The most common lengths are 18 inches long or 15 inches long. Tube diameters are most commonly labeled with BT- followed by a number. Here are the most common, along with the diameter for the tube.
+
+.Common Body Tube Sizes
+[options="header"]
+|===========================
+|Size |Inside Diameter (in)|Outside Diameter (in)|Inside Diameter (mm)|Outside Diameter (mm)
+|BT-5 |0.518               |0.544                |13.2                |13.8                 
+|BT-20|0.710               |0.736                |18.0                |18.7                 
+|BT-50|0.950               |0.976                |24.1                |24.8                 
+|BT-55|1.283               |1.325                |32.6                |33.7                 
+|BT-60|1.595               |1.637                |40.5                |41.6                 
+|BT-80|2.578               |2.600                |65.7                |66.0                 
+|===========================
+
+.Metric or Imperial Units?
+****
+The table for body tubes shows the tube diameters in both metric and imperial units. Throughout the book, you will see these systems of units used interchangeably. Why not just stick with one or the other?
+
+This is a book about rocket science, so I'd prefer to stick with the metric system and ignore imperial units. There are two reasons for not doing it, though. The first is that a lot of people who read this book are not familiar with the metric system. Quick: how big is an 18 mm tube anyway? Oh, about ¾ of an inch… I've used the metric system professionally for years, but I still visualize ¾ of an inch better than 18 mm.
+
+The other reason is that there is no standard within model rocketry. When you pick up a magazine or article about model rocketry, you'll see people switching back and forth between metric and imperial units with dizzying frequency, especially in high-power rocketry. You'll see people talking about their 3-foot long 29 mm rocket (the body tube diameter) that reached 5,000 feet altitude. The motor might have 1000 Newton-seconds of total impulse (a metric unit), with a maximum thrust of 250 pounds. Since you're going to see this constantly, you might as well get used to it here.
+
+This book takes a pragmatic approach, embracing the Schizophrenic nature of measurement in the United States by freely switching between metric and imperial. For the most part, I'll stick with the units I see used most often in hobby rocketry, occasionally giving both units when you might see both in articles and reference sheets. You're calculator no doubt has conversions between the various units. It's how measurement is done in the real world.
+****
+
+The BT-20 body tube is exactly the right size to hold a typical A, B or C model rocket motor. While the diameter varies a bit, most rocket motors are 0.7 inches in diameter and 2.75 inches long. The Juno uses a short section of BT-20 for the motor mount.
+
+The Juno uses a BT-50 for the main body tube. This makes the rocket a little bigger than the motor mount, giving room for a motor retention clip that is internal to the rocket. The BT-50 is also the right size for motor mounts for D and E motors.
+
+We will use several of the other body tube sizes in other rockets. The BT-5 is perfect for tiny motors and decorative trim, the BT-55 is just right for the main body tube on a D or E rocket, and the BT-60 is great for large, impressive-looking rockets.
+
+===== Nose Cones
+
+.Nose cones come in a variety of sizes, shapes and materials. Most are plastic or balsa wood.
+image::images/Fig%203-3.jpg[height="2.5in"]
+
+Nose cones are usually made from plastic or balsa wood. They are never made from metal. I prefer working with balsa wood, which is easier to modify. Plastic nose cones are becoming more and more common, though, because they are cheap to make in large quantity.
+
+The Juno is designed for a plastic nose cone from the Estes Designer Special. It's the one that fits the BT-50 body tube with a length of 2.75 inches. That's the length of the part that is exposed when the nose cone is in the body tube.
+
+[[sb_ch3_1]]
+.Can You Safely Make Substitutions?
+****
+You might get a package of nose cones from another manufacturer, or Estes may change the designer special. Is it safe to make changes?
+
+Within certain limits, yes. We'll go over rocket design later in Chapter +?+, where you'll learn all of the things you need to know to evaluate a rocket design for stability. For now, these rules of thumb will keep your rockets stable if you vary from the design of the rockets in this book:
+
+. You can always use a longer, heavier nose cone. That increases the weight at the front of the rocket, bringing the center of gravity forward, making the rocket more stable.
+. You can always lengthen the body tube. That also moves the center of gravity forward.
+. You can add more fins or make them larger.
+. You can change the shape of the fins as long as you keep the surface area at least as big as those in the design. You can move them towards the base of a rocket, but not towards the nose cone. You can sweep the fins more, but only towards the base. All of these changes move the center of pressure towards the base of the rocket (or leave it unchanged), making the rocket more stable.
+****
+
+===== Screw Eyes
+
+.Screw eyes are mounted in balsa wood nose cones to provide a place to attach shock cords and parachutes.
+image::images/Fig%203-4.jpg[height-"2.5in"]
+
+You need some way to attach a parachute and shock cord to the nose cone of a rocket. A small screw eye is a perfect attachment point for a balsa nose cone. Plastic nose cones come with a remolded loop for this purpose, so you don't need a screw eye if you are using a plastic nose cone like the ones in the Estes Designer Special.
+
+Screw eyes are available at hardware stores. Look for small ones about ½ to ¾ inch long.
+
+[[section3_fins]]
+===== Fins
+
+.Fins are usually cut from sheets of balsa wood, although preformed plastic fins are fairly common.
+image::images/Fig%203-5.jpg[height="3in"]
+
+Kits sometimes come with plastic fins, but almost all scratch-built rockets use balsa wood sheets for fins. Balsa wood is light, strong, and easy to work with, so it is likely to remain the material of choice.
+
+The fins for the Juno are cut from 3/32 inch thick balsa wood sheets. It's a great general-purpose thickness for small to medium size rockets flying on A, B or C motors. Other common thicknesses are 1/16 inch, which we will use for a high-performance rocket in Chapter +?+; and 1/8 inch, which we will use for larger rockets and rockets with D and E motors. Most sheets are 3 inches wide. Hobby stores generally carry sheets that are 36 inches long, but this varies a bit.
+
+Like any natural material, balsa wood varies from one sheet to the next. For rocket fins, pick the densest, hardest balsa sheet in the bin. It is also important that the sheet not have twists or warps. Sight along the length of the sheet to see bends and warps. A sharp, localized bend is not as bad as a long, gentle twist—you can always cut around a short imperfection.
+
+.Check balsa sheets for twists and bends by sighting along the length of the sheet. The sheet on the left is clearly not good fin material. The one on the right will work well.
+image::images/Fig%203-6.jpg[]
+
+===== Centering Rings
+
+.Centering rings are made from cardboard or wound paper. You can see how the centering ring holds the BT-20 perfectly in the middle of the BT-50.
+image::images/Fig%203-7.jpg[height="2.5in"]
+
+Centering rings are used to mount one body tube inside another. They are made from a variety of material, usually thick cardboard or spiral wound paper. The Juno is built with two wound paper rings—the green ones in the Estes Designer Special.
+
+===== Engine Hook
+
+.The engine hook holds the rocket motor in place during the boost phase and when the ejection charge fires. Juno uses the shorter engine hook. The longer engine hook is for E class motors.
+image::images/Fig%203-8.jpg[height="2.5in"]
+
+There's a considerable amount of force driving the rocket motor forward as it launches, and another force that is trying to shove the motor out of the tube as the ejection charge fires. The rocket must be designed with some mechanism for holding the motor in place, preventing it from moving forward during the boost phase or backward when the ejection charge fires. It's nice if the motor retention system also makes it easy to install and remove the motor. There are several ways to hold a rocket motor in the motor tube. By far the easiest and most reliable is the engine hook.
+
+That doesn't mean the engine hook is the only way to hold the motor in place. Rockets in later chapters will show friction mounts and screws. There are even a couple of rockets that don't have a motor retention system—the motor is allowed to pop out of the rocket when the ejection charge fires.
+
+For the Juno, though, stick with the engine hook. It's by far the best choice for this rocket. We'll revisit the choice when we build rockets where an alternative makes sense.
+
+===== Launch Lug
+
+.The launch lug guides the rocket until it picks up speed.
+image::images/Fig%203-9.jpg[height="2.5in"]
+
+Launch lugs are thin tubes, usually made from paper reinforced with Mylar. There are two standard sizes. The smaller is about 5/32 inch on the inside, designed to slide over a 1/8 inch rod used as a launch rail on the rocket launcher. This is the size used on the Juno. Rockets that weight more than about 4 ounces +check: is there a standard?+ use a slightly larger size of 7/32 inch diameter, which is designed for a 3/16 inch launch rod. 
+
+===== Shock Cord
+
+.The shock cord keeps the nose cone and body tube together after ejection.
+image::images/Fig%203-10.jpg[height="2.5in"]
+
+The shock cord is usually made from rubber or flat elastic. Rubber works great and is inexpensive, so that's what you usually find in kits and packages like the Estes Designer Special. Flat elastic is much easier to find. You can buy a large quantity for a few dollars at the local fabric store. They both work well.
+
+Shock cord is available is a lot of sizes. It's common to use 1/8 wide shock cord for smaller rockets like the Juno, switching to ¼ inch wide shock cord for larger rockets. The shock cord should be about one and a half times the length of the body tube of the rocket.
+
+===== Parachute
+
+.Parachutes are usually made from thin plastic. Shown here are two preassembled parachutes from the Estes Designer Special and two parachute canopies, one cut from a plastic bag and another cut from a Mylar balloon.
+image::images/Fig%203-11.jpg[height="2.5in"]
+
+Parachutes are usually made from thin plastic. Kits come with colorful printed designs, and I like them a lot. When they wear out, though, I rarely buy another one. Parachutes are very easy to make from grocery bags. An even better material is the thin metalized Mylar used for party balloons. Add some crochet string and a bit of tape and you can create custom parachutes for practically nothing.
+
+Larger rockets that carry very heavy payloads, like egg lofters, switch to rip stop nylon parachutes. We'll cover those later in the book.
+
+===== Snap Swivel
+
+.Snap swivels are a great way to attach parachutes and nose cones.
+image::images/Fig%203-35.jpg[height="2.5in"]
+
+Snap swivels are optional, but I highly recommend them. Snap swivels make it easy to attach the parachute to the nose cone, and also make it easy to swap a parachute in the field if one gets torn.
+
+You can buy snap swivels from almost anyplace that sells fishing supplies. Look for snap swivels that are one to 1.5 inches long.
+
+==== A Detailed Walk-Through of the Tools and Supplies
+
++Review the tool list once the book is complete. Should this include all tools for the entire book? It might not be a stretch.+
+
+===== Hobby Knife
+
+.A hobby knife is essential. A nice set is very handy.
+image::images/Fig%203-12.jpg[height="2.5in"]
+
+You don't need fancy power tools to build model rockets. They are made from paper, balsa wood and plastic, all materials that are easy to cut with a hobby knife. This is a pretty fancy set, but the only knife used for the Juno was the small one, and the only blade used was the common blade you see, called a Number 11 blade.
+
+Get some extra blades, too. Knife blades dull quickly. I generally start a new rocket with a new blade. 
+
+Hobby knives are available at almost any hardware store or hobby store.
+
+===== Cutting Boards
+
+.Cutting boards protect surfaces.
+image::images/Fig%203-13.jpg[height="2.5in"]
+
+Cutting boards allow you to cut through wood or paper and into the surface below for a nice clean cut, all without dulling the tip of the knife. They come in a variety of sizes. I like the 18x24 inch size for must purposes.
+
+Don't plan to share a cutting board with the fabric artists in the house. The model rocket cutting board will get a lot of abuse, collecting deep cuts, glue and paint—all things that will make you very unpopular if done to the cutting board used for fabric.
+
+Cutting boards are available at fabric stores and craft stores. Check online for discount coupons for stores like JoAnn's craft store, which frequently has a 30% off coupon for one item.
+
+===== Glue
+
+.Use yellow wood glue for almost all construction. You will need an occasional dab of plastic glue for fastening pieces of plastic nose cones.
+image::images/Fig%203-14.jpg[height="2.5in"]
+
+Model rockets are built almost exclusively with yellow wood glue. White glue will also work, but wood glue is quite a bit stronger—strong enough that it's the wood or paper that gives way on a properly glued fin, not the glue.
+
+Wood glue works great on porous surfaces, but not on plastics. Use plastic glue, superglue or household glue to glue plastic pieces together.
+
+Some of the components in later chapters will also use epoxy glue, but it's not needed for the Juno.
+
+===== Sandpaper
+
+.Get at least one medium grit sandpaper and one fine grit sandpaper.
+image::images/Fig%203-15.jpg[height="2.5in"]
+
+Sandpaper comes in a wide variety of kinds. It's rated by grit, which indicates the size of the particles used in the sandpaper. The bigger the number, the smaller the particles and the smoother the sandpaper will be.
+
+Medium grit sandpaper is used to shape fins, remove burs from plastic parts, and rough-sand balsa parts before finishing. A grit of 120 to 150 is about right.
+
+The wood filler will be sanded between coats. A fine sandpaper is best. I like 320 or 400 grit sandpaper for sanding the wood filler.
+
+===== Sanding Block
+
+.Use a sanding block to sand flat surfaces.
+image::images/Fig%203-16.jpg[height="2.5in"]
+
+A lot of the surfaces are large, flat surfaces that need to stay that way. Sanding with just finger pressure can easily sand small groves into a flat fin. A sanding block holds the sandpaper flat, applying even pressure across the area being sanded.
+
+Sanding blocks don't have to be fancy. I've used a piece of scrap wood that is 0.75x1.5x2.25 inches for years. It's the perfect size for 1/16th of a sheet of sandpaper.
+
+===== Wood Primer
+
+.Use some form of filler to prepare the wood for paint.
+image::images/Fig%203-17.jpg[height="2.5in"]
+
+Balsa wood is very porous. Paint applied directly to the wood will be quite rough. There are a number of wood fillers available that prepare the wood for paint, creating a satin or glassy surface.
+
+While lots of products will do, my favorite when working with a brush is sanding sealer. It's getting a little hard to find. Look for it online or at hobby stores that cater to model airplanes. There will be a section of paint called Butyrate Dope or Hot Fuel Proof Dope. Somewhere in the rack will be a creamy, translucent jar called sanding sealer. Order directly from SIG Mfg. Co. at www.sigmfg.com if you can't find it locally.
+
+Dry sandable filling primer works very will for spray-on applications. This is also a little hard to find. Be sure and get a filling primer, not just a standard primer. While wet-sandable primers will do, I prefer a dry sandable primer like Rust-oleum 2in1 Filler & Sandable Primer. I occasionally find this at Lowes hardware store, but it's a specialty item and often out of stock. It's available from Amazon.com, too.
+
+===== Paint
+
+.Use almost any kind of non-water base paint.
+image::images/Fig%203-18.jpg[height="2.5in"]
+
+Rockets should look cool. The only way to do that is with a good paint job. Almost any kind of paint that won't dissolve in water once it is dry will do.
+
+My favorite paint for painting the entire rocket with a brush is model airplane paint, also known as Butyrate Dope. It's smelly stuff that demands good ventilation, though. Acrylic paint is a better choice in a classroom setting.
+
+Enamel spray paint also works well, and it's what I use most of the time.
+
+You might also want small ¼ ounce bottles of enamel paint is a few colors for details.
+
+If you use brushes, you will need some paintbrushes. A nice wide brush, ¼ inch to 3/16 inch wide, works really well. Brush cleaner is also a must. Paint thinner for the kind of paint you are using works well. Nail polish remover works fine for enamel paint.
+
+===== Paper
+
+Normal weight writing paper is used to mark body tubes for cutting, for making some kinds of fin guides, and for shock cord mounts. Any scrap will do. Larger sheets are useful for making parachute patterns. You can paste several sheets of writing paper together, but a more practical idea is to use some of that leftover wrapping paper from the last holiday or birthday.
+
+===== Pencil
+
+There are several situations where we will mark guide lines on the rocket during construction. A normal pencil works best. Ballpoint pens tend to make indentations in the surface of balsa wood and body tubes, and often don't work on plastic nose cones. Felt tip markers work well, but tend to bleed through the paint.
+
+===== Wax Paper
+
+Glue occasionally drips, but it will not stick to wax paper. Any time you are working over a surface you don't want to get glue on, especially while a part dries, cover it in wax paper. This is particularly helpful when gluing fins over a fin guide.
+
+===== Metal Edge Ruler
+
+A metal edge ruler is a great addition to your tool kit. It's really nice when you are cutting balsa wood fins or paper. A 15 inch ruler is a good length; they are available from office supply stores.
+
+===== Tape
+
+Several kinds of tape are useful. As a minimum, get a roll of painter's tape. It's avialable from the paint sections of hardware stores, and is usually blue or green. This stuff works a lot better than traditional masking tape for masking areas when you spray paint. Clear wrapping tape is also handy.
+
+=== Building the Rocket
+
+With parts and tools assembled, it's time to build a rocket!
+
+Read all of the instructions before you start. I know. You hate directions. There is a reason, though. If you follow through step-by-step, you will build a perfectly good rocket, then discover that there are some cool options you could have used—but it's too late. Read through so you know what options you want before you start.
+
+==== Cutting Body Tubes
+
+The Juno uses a 12-inch long section of BT-50 body tube. Most body tubes are 18 inches long, while a few are 15 inches long. That means we'll need to cut the tube.
+
+Measure 12 inches from the base of the tube and make a small guide mark with a pencil. Wrap a piece of paper around the body tube and match the edges. The paper forms a perfectly straight edge that is exactly perpendicular to the length of the body tube. Mark this line carefully with the pencil.
+
+.Measure the location to cut, then use a piece of paper to extend the line around the body tube.
+image::images/Fig%203-22.jpg[]
+
+Put something hard or thick into the tube so it is directly under the location to be cut. The long orange motor adapter from the Estes Designer Special works well, as does a tube coupler, or a used D or E motor (not an unused one!). This gives a cleaner cut by supporting the tube as the hobby knife slices through. 
+
+Take your time, starting with a light cut that barely scores the body tube. This is where you take extra care to create a nice, straight grove for the deeper cuts. I like to use the flat part of the blade for this cut—it makes it easier to get a straight cut.
+
+.Place a support under the cut location. Start with a shallow cut using the flat part of the knife blade.
+image::images/Fig%203-23.jpg[]
+
+Switch to the point of the blade and increase the pressure after the guide cut is complete. Take your time. It should take three to five complete turns of the tube to make the cut. If you cut too deep, you could end up with a jagged edge.
+
+.Take your time, making the cut in three to five turns of the tube.
+image::images/Fig%203-24.jpg[]
+
+The Estes Designer Special comes with a precut BT-20 body tube for the motor mount. It's white, about ¾ inch in diameter, and 2.75 inches long. If you are working from a longer piece of BT-20 body tube, repeat the above process to cut off a 2.75 inch piece.
+
+==== Marking the Body Tube for Fins
+
+The fins and launch lug must be straight for the rocket to slide off of the pad and fly straight. Marking the body tube is the first step in a perfect flight.
+
+<<fig3_26>> and <<fig3_25>> are fin marking guides. Use <<fig3_26>>> as a fin marking guide for Juno. Place the body tube on the guide, using the concentric circles to position the body tube in the exact center of the guide. Work around the rocket making small marks at the base of the body tube to mark the locations of the three fins and launch lug.
+
+[[fig3_26]]
+.Fin marking guide for three-finned rockets. Use this one for Juno.
+image::images/Fig%203-26.jpg[height="4in"]
+
+[[fig3_25]]
+.Fin marking guide for four-finned rockets. Don't forget to mark the location for the launch lug.
+image::images/Fig%203-25.jpg[height="5in"]
+
+The next step is to extend the lines up the body tube. Find a convenient door jamb or the edge of a drawer, placing the body tube so it sits in the V shape formed by the wood. Rotate the tube until the guide mark is just next to the wood, then use your pencil to extend the guide lines about three inches for each fin and about six inches for the launch lug. Don't press hard—just hard enough to make a mark you can see clearly. Be careful not to mark the door jamb!
+
+.Mark the position of the fins and launch lug using the fin guide, then extend the marks up the tube using a door jamb as a guide.
+image::images/Fig%203-27.jpg[]
+
+==== Motor Mount Construction
+
+.The completed motor mount.
+image::images/Fig%203-28.jpg[height="2.5in"]
+
+The motor mount will slide into the body tube, holding the rocket motor in place during flight. It needs to be strong.
+
+Start by measuring ¼ inch from one end of the motor mount tube and making a mark 1/8 inch long perpendicular to the length of the tube. Puncture the tube at this location with a hobby knife. Insert the flatter end of the engine hook into the slot.
+
+The engine hook protrudes into the motor mount. It may not look like much, but this little tab of metal will easily hold a rocket motor in place during the thrust phase of flight.
+
+.Cut a notch in the motor mount and insert the engine hook.
+image::images/Fig%203-28.jpg[]
+
+Cut a notch in one of the centering rings. The notch should be wide enough for the engine hook and about half of the depth of the centering ring.
+
+.Cut a notch in one of the centering rings.
+image::images/Fig%203-29.jpg[]
+
+Test fit all of the pieces. Use your fingernail to score the edge of the centering rings if they don't slide easily over the motor tube. Use sandpaper if you must.
+
+.Score the edge of the centering ring to make it easier to slide it onto the motor tube.
+image::images/Fig%203-30.jpg[height="2.5in"]
+
+Insert the engine hook. Place a bead of wood glue around the end of the motor mount, just above the slot for the engine hook, then slide the uncut centering ring onto the end of the motor mount. Wipe away excess glue with your finger, forming a nice fillet where the centering ring meets the motor mount tube.
+
+.Glue the uncut centering ring onto the end of the tube. Form a fillet using your finger.
+image::images/Fig%203-31.jpg[]
+
+.Wood Glue Messes
+****
+You're going to get wood glue on things, particularly your fingers as you form fillets. That's really not a big deal. Wipe any extra glue from your fingers or other surfaces with a paper towel or other scrap of paper. Wash your hands in clear water to remove the glue, or use a damp paper towel to remove glue messes from the rocket or cutting board. 
+
+Wood glue cleans up well while wet, but is very tough once dry, so don't leave drips or smears for later!
+****
+
+The notch in the remaining centering ring gives a little more room for the engine hook to bend. Without some support, though, the engine hook will eventually work loose from the slot at the end of the motor tube. The Estes Designer Special comes with a Mylar ring to support the engine hook. 
+
+Place glue under the engine hook from the end that is inserted in the motor mount tube to about halfway down the tube. Glue the Mylar ring about halfway down the tube, then apply a liberal amount of glue over the engine hook between the ring and the forward centering ring. Don't apply glue below the ring.
+
+There are plenty of adequate substitutes for the Mylar ring, so don't bother ordering one if you are buying individual parts. A couple of turns of masking tape work well, as does a couple of turns of ½ inch wide paper coated in wood glue.
+
+.Secure the engine hook with glue and a band for stability.
+image::images/Fig%203-32.jpg[height="2.5in"]
+
+Apply a bead of wood glue in a ring near the base of the motor tube. The glue should extend from ¼ to ½ inch from the base of the motor tube. Slide the remaining centering ring onto the motor mount and form generous fillets on either side of the centering ring.
+
+.Glue the remaining ring ¼ inch from the end of the motor mount. Apply generous fillets of wood glue.
+image::images/Fig%203-33.jpg[]
+
+Set the motor mount aside to dry. It's best to prop it up on its end so the glue doesn't drip off. Placing it on a small scrap of wax paper will make cleanup a lot easier if any glue does drip. The glue will set pretty quickly, but check it occasionally as the glue dries to make sure none has dripped. If any glue does drip, clean the drip with a damp paper towel or, if it is firm enough, with the hobby knife.
+
+==== Cutting Fins
+
+Take a look at a piece of balsa wood. You can clearly see the grain in the wood—long, parallel lines that were formed as the tree grew new rings. The wood is much stronger going across the gain than parallel to the grain.
+
+Cut two pieces of balsa from a 3/32 inch think plank, both about ½ inch wide and 1 ½ inches long. Cut one with the grain parallel to the long axis, and one with the grain perpendicular to the long axis. Bend each piece until it breaks. It's not hard to break the piece with the grain running perpendicular to the direction of the bend, but the other piece is both more rigid and much harder to break.
+
+.Balsa wood is stronger perpendicular to the grain of the wood. It breaks easily and cleanly with the grain, but is harder to break against the grain.
+image::images/Fig%203-34.jpg[]
+
+Thinking about it a bit, it is clear that fins need to be cut so the grain of the wood extends out from the body tube, not running parallel to it. The general rule is to cut the fin so the grain runs parallel to the leading edge of the fin. Fins should be designed so there is never a line of grain that does not lead back to the body tube or a glue joint. If you need to cut a really fancy design, perhaps a concave curve, use multiple pieces of wood so the edges don't break off.
+
+Take a look at the fins in <<id_figure3-36>>. _Root_ indicates the part of the fin that is glued to the body tube, and in all cases, the nose cone is up. The lines with arrows indicate the direction of the wood's grain. 
+
+The fins for the Juno are on the left. While the grain direction follows the general rule of cutting the fin so the grain is parallel to the leading edge of the fin, it would work just as well if the grain was perpendicular to the fin root. The middle fin shows a case where this is a bad idea, though. The bottom tip of the fin is very fragile, and is likely to break off even on a mild landing.
+
+The rightmost presents an interesting case. There is no way to orient the grain of the wood so there is no fragile section. The normal rule of placing the grain parallel to the leading edge leaves a piece at the tip of the fin that is still very prone to breaking. The solution is to build the fin from two pieces of wood, as shown at the top. The second piece has the grain running vertically, where it is connected with glue to the rest of the fin. Wood glue is quite strong; if the joint is properly glued, the joint will be stronger than the surrounding balsa wood.
+
+[[id_figure3-36]]
+.Some do's and don'ts for fin grains.
+image::images/Fig%203-36.jpg[height="4in"]
+
+Here is a fin-cutting guide for the Juno. Like most fin guides, the direction of the grain is clearly marked. The Juno fins fit together snugly on a sheet of balsa, though.
+
+.A fin guide and one layout for efficiently cutting the fins from a plank of balsa.
+image::images/Fig%203-37.jpg[]
+
+Trace the fin guide on a sheet of paper and use a pencil to draw the outlines of the fins on a 3/32 inch thick plank of balsa wood. This is the middle thickness plank from the Estes Designer Special. Cut the fins using a hobby knife. Just like cutting the body tube, start with a light guide cut, then make three to five additional cuts to cut all the way through the wood. While not essential, a metal ruler helps make nice straight cuts.
+
+.Transfer the fin to the balsa wood, then cut out all three fins.
+image::images/Fig%203-38.jpg[]
+
+The fins are not likely to be perfect, and that's OK. Press them together and sand them on a sheet of medium grit sandpaper, being careful to keep the stack of fins perpendicular to the sandpaper. Sand until all fins are even.
+
+.Use sandpaper to even out the fins.
+image::images/Fig%203-39.jpg[]
+
+There is nothing wrong with leaving the forward and trailing edges of the fin flat, but it will reduce the drag a lot if you round the edges. There are lots of alternatives to a simple semicircular rounding on the leading and trailing edges, but rounded fins are easy to create and work pretty well. Fin cross-section is a topic we'll return to later.
+
+Start by roughing out the rounded edge by sanding the fin at about a 45° angle from the sand paper. Finish the shape by sanding by hand; your hand has some give, and will help the sandpaper form a gentle curve. Be sure to round the leading and trailing edge and fin tip, but do not round the fin root—the part that will be glued to the body tube.
+
+.Sand a rounded edge on the leading edge, trailing edge and fin tip, but not the fin root.
+image::images/Fig%203-40.jpg[]
+
+Now that the fins have their rough shape, it's time to smooth out the surfaces. Using a sanding bloc, sand the surface of each fin with the grain using medium grit sand paper until the fin feels smooth. Close your eyes and feel the surface of the wood, then run your fingers along the rounded edges. Is everything smooth? If not, carefully touch up the roughness. Remember, it doesn't matter what the wood looks like—it's going to get painted soon, anyway. All that matters is what it feels like. Any roughness or irregularities will show up clearly once the surface is painted.
+
+.Use a sanding block to smooth the top and bottom surface of the fin.
+image::images/Fig%203-41.jpg[height="3in"]
+
+==== Gluing the Fins
+
+Fins are glued to the body tube in two steps. Start by placing the cutting board on a flat surface that is low enough to allow you to sight down along the length of the tube when it is standing on end. Tape the fin guide under a piece of wax paper and center the body tube over the fin guide with the marked end down. Put a bead of glue onto the root of a fin, make contact with the base of the rocket and press the fin to the rocket, being careful to make sure the fin aligns exactly with the guide line.
+
+Glue each fin in place, then sight along the length of the body tube from above to make sure each fin is perfectly straight and exactly follows the lines on the fin guide. Let the fin dry thoroughly, checking them occasionally to make sure they don't drift out of alignment.
+
+.Glue the fins over the fin guide to make sure they are aligned properly.
+image::images/Fig%203-42.jpg[]
+
+Once the fins are completely dry, apply a fillet along each of the six edges where a fin meets the body tube. Hold and roll the rocket for a minute or two while the glue sets, then place it vertically on the fin guide to dry.
+
+.Place fillets at all joints between the fin and body tube.
+image::images/Fig%203-43.jpg[]
+
+==== Attaching the Launch Lug
+
+Cut a 1.5 inch piece from a 1/8 inch launch lug. They are generally three inches long, so you are cutting it in half. Use a sharp hobby knife to saw through the launch lug. Sand the cut end on fine sandpaper if needed to remove any roughness.
+
+Use a generous amount of glue to attach the launch lug three inches from the base of the rocket. Carefully sight along the length of the rocket to make sure the launch lug is perfectly aligned with the body of the rocket.
+
+You can do all of this while the fin fillets are setting. Moving the rocket around as the fillets set helps prevent sags in the glue. Check the glue on the launch lug as the glue on the fin fillets sets, too, making sure there are no sags in the glue on the launch lug.
+
+One final check is in order. As the glue starts to get tacky, but before it is completely set, carefully slide a launch rod through the launch lug to check the alignment. Straighten the launch lug if necessary, and then carefully remove the launch rod, making sure the launch lug does not twist as the launch rod is removed.
+
+.Cut a 1.5 inch piece of launch lug and attach it three inches from the base of the rocket. Check the alignment carefully.
+image::images/Fig%203-44.jpg[]
+
+==== Installing the Motor Mount
+
+Test fit the motor mount in the rocket once the fins and motor mount are completely dry. Gently score the edge of the body tube or lightly sand the centering rings if the motor mount does not slip easily into the body tube.
+
+Measure your finger against the motor mount, holding your thumb as a guide so the tip of your finger almost reaches the end of the motor mount. Place a large dab of glue on the end of your finger and smooth this onto the inside of the body tube. Repeat as often as needed to get a thick ring of glue on the inside of the body tube. Repeat this process with a thinner ring of glue about ¼ inch into the body tube, and then slide the motor mount into the tube. 
+
+.Apply a generous amount of glue so the top centering ring will hit it when slid into the body tube. Apply a thinner ring of glue where the lower centering ring will sit.
+image::images/Fig%203-45.jpg[]
+
+I like to align the engine hook with the launch lug; it makes it easier to connect the igniter wires to the rocket later when it is prepared for launch. In truth, though, it doesn't matter all that much.
+
+Slide the motor mount in until the ends of the body tubes match.
+
+Hold the rocket upright while the glue sets. It will just take a couple of minutes.
+
+.Slide the motor mount in until the body tubes a flush, the stand the rocket up to dry.
+image::images/Fig%203-46.jpg[height="2.5in"]
+
+Once the glue is firmly set, turn the rocket over and dribble a glue fillet into the slot between the body tube and motor tube. The glue should cover the centering ring everywhere except where the engine hook pokes through; make sure there is no glue there, clearing it away of any drops into this area. Stand the rocket so the fins are up while this fillet dries.
+
+==== Shock Cord Installation
+
+The rocket is popped apart with an explosive charge as it coasts to the top of its flight. This explosion forces the parachute out of the body tube and flings the nose cone away. The shock chord is an elastic cord connecting the nose code, parachute and body tube. It absorbs the shock of the explosion, keeping everything in one nice neat package.
+
+The shock cord is fastened to the body tube with a tri-fold paper and glue mount. The Estes Designer Special comes with some of these drawn on a sheet of stiff paper, but you can also cut one from normal writing paper.
+
+.Shock cord mount for 1/8 inch and ¼ inch shock cords. Trace and cut from printer paper.
+image::images/Fig%203-47.jpg[]
+
+Using either the Estes shock cord mount or one you cut yourself, apply wood glue to the smallest tab, lay the shock cord in the glue, and fold the paper over. Don’t mash it down too much; the glue will squirt out, leaving a dry gap. Repeat this process with a second fold. Finally, apply glue to the inside edge of the paper and glue it inside the body tube, about one inch from the end of the tube. Make sure there is room for the nose cone to be inserted with at least a quarter inch gap between the nose cone and the shock cord mount. I generally have the end with the dangling shock cord pointed towards the nose of the rocket. Press down just enough for some of the glue to squirt out, and then smear this across the top of the paper to form a complete seal. Hold the mount in place until the glue begins to set.
+
+.Mounting the shock cord.
+image::images/Fig%203-48.jpg[]
+
+Once the shock cord is dry, apply another coat of wood glue over the entire mount and let that dry, too.
+
+==== Making a Parachute
+
+The Estes Designer Special comes with several prebuilt plastic parachutes. It's a nice little package, and you should use one of the 12-inch parachutes if you bought that package. Don't buy one if you are using individual parts, though.
+
+A bag from a retail store makes a great parachute, as does the metallic Mylar used for helium party balloons. Some of the plastic bags are pretty flimsy and made from plastic that sticks together. Use one of the slightly thicker ones that seems a little less like plastic food wrap.
+
+You can make a nice parachute template using a protractor and some taped paper or the back of a piece of wrapping paper. Use a protractor to draw six equally spaced lines radiating outward from a central point as seen in <<fig3_49>>. These will be 60° apart.
+
+Extend a nice long line, about eight inches long for a 12-inch parachute, from the center of the circle through each of the six points. 
+
+Measure 6 15/16 inches from the center of the circle along each line. Connect these lines around the outside edge of the parachute to form a hexagon. This is the outline for the finished parachute.
+
+[[Fig3_49]]
+.Use a protractor and ruler to form a parachute template from an old piece of wrapping paper or several sheets of printer paper taped together.
+image::images/Fig%203-49.jpg[]
+
+Use the template and a hobby knife to cut one or two layers of your chosen parachute material.
+
+.Cutting the parachute.
+image::images/Fig%203-50.jpg[]
+
+.Math
+****
+Why 6 15/16 inches? And how long should this line be for other parachute sizes?
+
+Finding the correct length is pretty simple with a little dab of trigonometry. <<fig_3_63>> shows a sketch of one of the six sections on the parachute. The line h is the one that is 6 15/16 inches long. We want a 12-inch parachute, so the line d is half that—six inches. The angle between the lines d and h is 30°, or half of the 60° you marked off to form each of the six sections.
+
+[[fig_3_36]]
+image::images/Fig%203-63.jpg[height="2in"]
+
+From trigonometry, we know that the length of the line d (the adjacent line in trig-speak) divided by the length of the line h (the hypotenuse in trig-speak) is the cosine of the angle. You can get the value of the cosine of 30° from just about any calculator; it's about 0.866. All of this makes it easy to find the length of the line h, which is the one we marked to find the points that form the hexagon for the parachute.
+
+image::images/Fig%203-64.png[height="1.25in"]
+
+You can use the same formula to find the length along the guide line for any size parachute.
+****
+
+Cut three parachute shroud lines that are twice as long as the parachute diameter—24 inches, in this case—from crochet string. Any string that is thick enough not to get tangled in itself is fine; normal sewing thread is too thin.
+
+Attach the shroud lines to the corners of the parachute with ½ inch square or round pieces of sticky tape like duck tape. Form a loop under the tape to hold the string firmly in place. One shroud line is attached across opposite corners of the parachute, while two others are attached to adjacent corners so they do not cross each other. See <<fig3_51>>.
+
+Apply baby powder to the finished parachute to keep the plastic and tape from sticking together when folded in the rocket. I like to store my parachutes open on a clothes hanger so they don't get permanent creases that will discourage the parachute from snapping open.
+
+[[fig3_51]]
+.Fasten the shroud lines to the parachute at the corners. Use talcum powder to keep excess tape adhesive from gluing the parachute closed.
+image::images/Fig%203-51.jpg[]
+
+==== Attaching the Parachute a Shock Cord
+
+.Snap swivels make it easy to connect and disconnect parachutes and shock cords.
+image::images/Fig%203-53.jpg[height="2.5in"]
+
+You can attach the shock cord and parachute directly to the loop molded into the base of the nose cone, but I prefer attaching them using a snap swivel. The snap swivel attaches the parachute or shock cord to the nose cone. There are two main advantages to using the snap swivel.
+
+First, rockets are made from standardized parts. It's pretty easy to swap a nose cone on the Juno for a payload bay made from a BT-50 body tube. The shock cord has to be untied and retied if it is tied directly to the nose cone, but the change is easy if the shock cord is attached with a snap swivel. The same is true for parachutes. You might want to quickly change parachutes in the field, either due to damage or to change sizes as payload weight changes.
+
+Rockets tend to twist a lot as they descend. A snap swivel can twist, too. The snap swivel generally won't keep up with the rapid twists of the rocket, but every little bit helps.
+
+The method for attaching a parachute is the same for both a nose cone and snap swivel. Poke the shroud lines of the parachute through the opening, then loop the parachute around and pass it through the shroud line loop. Tighten the knot to secure the parachute.
+
+.Find the center of the shroud lines and loop the parachute through a snap swivel or the loop on a nose cone.
+image::images/Fig%203-52.jpg[]
+
+Almost any knot will do for tying the shock cord to a snap swivel or nose cone, especially if you place a drop of glue in the middle of the knot. Don't cover the entire knot, though, just add a small dab where the end pokes through the knot. The glue is pretty rigid and makes a sharp edge, so covering the entire knot can lead to a broken shock cord.
+
+The really classy way to attach a shock cord is to use a buntline hitch. Here's a figure of the knot from Wikipedia.
+
+.The buntline hitch is a great way to tie the shock cord to a nose cone or snap swivel.
+image::images/Fig%203-54.jpg[]
+
+==== Before You Paint
+
+Your rocket is structurally complete. You can fly it if you like. If you go to a launch where there are lots of rockets, you will probably see several that are not painted. A poor finish does cause a bit more drag, but it's not that big a deal for a sport rocket. There is only one real problem with not painting the rocket.
+
+It's ugly.
+
+You've spent all of this time building a classy rocket. Take a little more time to make yourself proud.
+
+There are two steps to take before applying the paint. Start with the nose cone. The one I picked out for the Juno from the Estes Designer Special gave me a pleasant surprise. The nose cone was molded vertically, so there is no flashing running the length of the nose cone. There is another nose cone in the kit that does have flashing. Take a look at the 6 ½ inch nose cone for the B-60; it's about 1 ½ inches in diameter. There are two ridges running the length of the nose cone. The molding process causes this flashing, and it's the norm, not the exception.
+
+Scrape the flashing using a hobby knife. Look at <<fig3_55>> carefully. You're not cutting the flashing off, you are dragging the hobby knife backwards to scrape it off. If the nose cone is still a bit rough after scraping, sand the entire nose cone with a very fine grit sand paper. As with the fins, sand by feel, not sight. You will probably be able to see the flashing mark when you finish scraping and sanding, but if you can't feel it, you're done.
+
+The nose cone shown is a bit big for the Juno, but it shows the flashing well.
+
+[[fig3_55]]
+.Scrape any flashing off of the nose cone, then sand with a very fine grit sandpaper if needed. You're done when it feels smooth.
+image::images/Fig%203-55.jpg[]
+
+The balsa fins will have a very rough surface if they are painted right away. You can paint, sand, and repeat, but there are lots of great products for preparing the wood.
+
+Sanding sealer is brushed on. After drying completely, sand the fins with fine grit sand paper until they are smooth. You will probably need two or three coats of sanding sealer for a good finish.
+
+This is the primer of choice if you are using butyrate dope (model airplane paint). Butyrate dope tends to fill and shrink a bit on it's own, and does a pretty good job of covering up small groves left from the spiral winding process used to manufacture body tubes.
+
+Filling and sandable primer, such as Rust-oleum 2in1 Filler & Sandable Primer is sprayed on. Unlike butyrate dope, spray enamel will show up every imperfection in the spiral winding of a body tube. A filler primer also works well on the body tube, filling in these gaps.
+
+Shake the can well before you start to spray. There is a steel ball in the can that will rattle—if you don't hear it rattling, it's stuck in the paint. Keep shaking. Shake for at least another minute after the ball starts to rattle.
+
+Spray the primer onto the wood and paper parts of the rocket. You can spray it on the nose cone, but the one used with the Juno doesn't need it. After the primer dries, sand it until you see wood and paper showing through the primer. The intent is not to build up a thick layer of primer, it's to fill in the low-lying cracks and minor dings in the rocket. Repeat this process until the primer looks smooth when sprayed on, and give that final coat of primer a light sanding to smooth out any rough spots from the primer itself. At this point, you are looking at the finish, not feeling it, to see if it is smooth. Imperfections will show though dramatically.
+
+.Spray on primer, sand until wood and paper show thorough, and repeat until the last coat looks smooth.
+image::images/Fig%203-56.jpg[]
+
+==== Painting the Rocket
+
+Whether you spray paint or paint with a brush, start with the lighter color and progress to darker colors whenever possible. Dark colors cover light ones better than light colors cover dark ones. If you paint the Juno as I did, you will start by spraying the body and nose cone white. Some paint will get on the fins. Just ignore that paint. It will get covered up later, and any attempt to tape the fins will just result in a visible ridge when the tape is removed and the new color applied over the line.
+
+Shake the can for at least a minute after the ball starts to rattle, then apply a medium thickness coat of paint. You will probably still see some gray from the primer in places. Resist the urge to take care of that with a single coat of paint. Let the paint set for ten to 15 minutes, then apply another coat of paint. Repeat this process until the body tube and nose cone look perfect.
+
+.Paint the nose cone and body tube white.
+image::images/Fig%203-57.jpg[]
+
+If you get a drip or run, stop and let the paint dry completely. The next day, use the finest grit sandpaper you have to sand the paint until it feels smooth, and then start again with the painting process.
+
+Let the first color dry for several hours, preferably overnight, then mask off the body tube using painter's tape and scrap paper, leaving two of the fins exposed. Press the tape at the edge down firmly with your fingernail. When the rocket is taped, spray the two exposed fins with red paint. You might get complete coverage with a single coat of red paint, but don't push it. Two coats are much better than one coat with a drip.
+
+Let the red paint dry thoroughly. You don't have to wait as long as before because you won't be applying tape directly to the paint. Make sure it is dry to the touch, though. Test the paint on the taped surface so any fingerprints are on the tape, which you will remove, not the paint. Once the paint is dry, repeat the process to paint the final fin yellow.
+
+.Paint two fins red and one yellow.
+image::images/Fig%203-58.jpg[]
+
+You hold your breath, remove the tape, and... It's not perfect. What do you do?
+
+One option is to wait until the paint dries thoroughly, sand it down, and try again. If the error is very small, though, another option is to touch it up with a brush. Some paint, particularly the expensive stuff sold for modeling, is available in both spray and bottle form, so you can buy the color you need in a small bottle. Even better (and probably cheaper) is to wrap a small bowl in plastic wrap and spray directly into the wrapped bowl. You'll collect a few drops of paint that can be applied with a brush for touch-ups.
+
+.Spray paint directly into a plastic wrapped bowl to get a few drops for touch-ups.
+image::images/Fig%203-59.jpg[height="2.5in"]
+
+=== Options
+
+One of the really nice aspects of scratch building as apposed to kits is that you don't have to build exactly the same rocket I built. Here are a few suggestions. Read <<sb_ch3_1>> if you would like to change even more.
+
+==== Alternate Fin Shapes
+
+I like the fin shape on the Juno a lot, but there are two other fins worth considering.
+
+Swept fins look really cool. They are also good for stability, since they move the fin surface further to the rear of the rocket, pushing the center of pressure back, too. You need to use a rocket stand to display the Juno, since he engine hook sticks out the back. Rockets with swept fins stand on their own.
+
+The problem with swept fins is that I live in a high mountain desert, which has a lot of hard surfaces and exposed rocks. Swept fins dent, chip and break far more easily than the trapezoidal fins I selected.
+
+Still, those swept fins look really cool, don't they? And you may live in a grassy area. Here's a fin pattern for swept fins.
+
+.Swept fin pattern for the Juno.
+image::images/Fig%203-60.jpg[height="5in"]
+
+Another popular fin design is the oval. This is technically the best fin shape for subsonic flight, but imperfections in the fin and especially in the airfoil shape are likely to swamp any tiny advantage from the fin shape. Still, they look nice. The oval fins are a little harder to cut out and make, but give them a try if you are up for a challenge.
+
+.Oval fin pattern for the Juno.
+image::images/Fig%203-61.jpg[]
+
+The Juno used three fins. Why not four? Well, mostly because they are not needed. High-performance rockets always use three fins, since there is less drag from three fins. Still if you think four fins looks better, add another one. There is a four-fin fin guild right next to the one for three fins. You're rocket won't fly quite as high, but it will be really tough to tell the difference, and it will be quite a bit more stable with all that extra fin area.

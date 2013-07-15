@@ -1,0 +1,22 @@
+== Glossary
+
+center of gravity - The point a body turns around when rotating, given no other forces are acting on it.
+
+center of pressure - The point where pressure from the wind is the same on either side of the point. An object held in the wind at it's center of pressure will not rotate.
+
+fin root - The root of the fin is the part that attaches to the body tube.
+
+friction - A force that acts in the opposite direction of motion or in the opposite direction of a propulsive force. Friction is what makes things stop--without friction or some other force, a moving object would keep moving indefinitely.
+
+leading edge - Usually used when referring to a fin or wing, the leading edge is the part of the rocket that hits the air first. The leading edge of the fin, for example, is the edge closest to the nose cone.
+
+mass drive - A concept proposed as a cheap way to launch material, especially from an airless body like the moon. The mass drive fires the material from a ground propulsion system. It is then snagged in orbit or continues to propel itself with onboard rockets.
+
+Newton's Third Law of Motion - For every action, there is an equal and opposite reaction.
+
+nozzle - The part of the rocket motor that speeds up and directs the flow of ejected material. In the rockets from this book, this is generally some sort of clay or plastic constriction the gas shots from.
+
+root - See fin root.
+
+trailing edge - Usually used when referring to a fin or wing, the trailing edge is the part of the rocket where the air leaves the rocket. The trailing edge of the fin, for example, is the edge farthest from the nose cone.
+

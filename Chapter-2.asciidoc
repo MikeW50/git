@@ -1,0 +1,4 @@
+== How Model Rockets Work
+
+Describes the basics of solid propellant model rocket flight, including the boost phase, coast phase and recovery. Rocket engine construction, labeling and handling tells how to pick and safely store engines.
+
